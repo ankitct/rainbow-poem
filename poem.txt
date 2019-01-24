@@ -2,5 +2,6 @@ the ranbow
  purple
  white
  yellow
+ red
  green
  black
