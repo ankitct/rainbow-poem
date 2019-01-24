@@ -3,6 +3,7 @@ the ranbow and the unicorn
  white
  yellow
  red
+ indigo
  unicorn
  green
  black
